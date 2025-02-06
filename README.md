@@ -1,5 +1,7 @@
 # GAN para Fashion MNIST 👗🎨
 
+![Fashion MNIST GAN](https://github.com/warc0s/Fashion_MNIST_GAN/blob/main/logo.jpg?raw=true)
+
 Este repositorio contiene dos implementaciones de una Red Generativa Antagónica (GAN) entrenada sobre el dataset **Fashion MNIST**. Se han desarrollado dos versiones utilizando **TensorFlow** y **PyTorch**, permitiendo comparar el rendimiento y tiempos de entrenamiento entre CPU y GPU.
 
 ---
